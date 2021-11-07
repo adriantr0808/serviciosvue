@@ -21,6 +21,7 @@ export default class ServiceOficios {
             var empleados = [];
             axios.get(url).then(res => {
                 empleados = res.data;
+               
                 resolve(empleados);
             });
         })

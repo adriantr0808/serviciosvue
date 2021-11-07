@@ -35,7 +35,7 @@
             >
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/empleadosservicios'"
+            <router-link class="nav-link" to="/empleadosservicios"
               >Empleados Servicios</router-link
             >
           </li>
